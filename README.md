@@ -26,8 +26,8 @@ By Default, Gitpod gives you superuser security privileges. Therefore, you do no
 
 To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
+1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
+2. Scroll down to the _API Key_ and click _Reveal_
 3. Copy the key
 4. In Gitpod, from the terminal, run `heroku_config`
 5. Paste in your API key when asked
