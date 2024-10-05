@@ -1,5 +1,11 @@
-function Hello() {
-    return <h1>Hello from a componnnnent</h1>;
+function Hello(props) {
+  return (
+    <div>
+      <h1>
+        {props.message} {props.name}
+      </h1>
+    </div>
+  );
 }
 
 export default Hello;
