@@ -6,6 +6,7 @@ export default function Fruits() {
     { name: "Banana", price: 5, emoji: "🍌" },
     { name: "Orange", price: 15, emoji: "🍊" },
     { name: "Mango", price: 20, emoji: "🥭" },
+    { name: "Pineapple", price: 25, emoji: "🍍" },
   ];
   return (
     <div>
