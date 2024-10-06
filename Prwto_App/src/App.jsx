@@ -15,11 +15,17 @@ function App() {
   return (
     <div className="App">
       <Hello person={person} />
+      <br />
       <Fruits />
+      <br />
       <ConditionalComponent />
+      <br />
       <Message />
+      <br />
       <Counter />
+      <br />
       <Form />
+      <br />
     </div>
   );
 }
